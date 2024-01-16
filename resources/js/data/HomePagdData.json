@@ -1,0 +1,280 @@
+{
+  "hero": {
+    "imgUrl": "/frontend/images/home.png",
+    "name": "Md Iqbal Hossan Fazlay Rabbi",
+    "heading": "Hay! I’m Iqbal",
+    "typingText": ["I'm a Software Engineer", 1500, "I'm a Full Stack Developer", 1500, "I'm a Laravel Developer", 1500],
+    "description": "I am a highly skilled and experienced web developer and app developer with over 3 years of learning experience and 1+ years of Professional Experience in the industry",
+    "btnText": "Get in touch",
+    "btnUrl": "contactus"
+  },
+  "socialBtns": [
+    {
+      "icon": "fa-brands:facebook-f",
+      "iconBgClass": "facebook",
+      "href": "https://www.facebook.com/iqbalhrabbi"
+    },
+    { "icon": "fa-brands:github", "iconBgClass": "github", "href": "https://github.com/mdiqbalhossan" },
+    {
+      "icon": "fa-brands:linkedin-in",
+      "iconBgClass": "linkedin",
+      "href": "https://www.linkedin.com/in/iqbal-hossan"
+    }
+  ],
+  "brands": [
+    {
+      "src": "/frontend/images/brand-1.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/frontend/images/brand-2.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/frontend/images/brand-1.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/frontend/images/brand-2.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/frontend/images/brand-1.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/frontend/images/brand-2.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/frontend/images/brand-1.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/frontend/images/brand-2.svg",
+      "alt": "Logolpsum"
+    }
+  ],
+  "about": {
+    "imgSrc": "/frontend/images/about.png",
+    "miniTitle": "About Us",
+    "title": "I AM AVAILABLE FOR <span>Web Development</span> PROJECTS",
+    "description": "I have a proven track record of delivering high-quality, responsive websites and web applications that are both visually appealing and user-friendly. I am also proficient in utilizing various development tools such as Git, WordPress, Vue Js, Nuxt Js and Tailwind CSS. I have strong problem-solving skills and am able to work well under pressure, making me an asset to any team. I am always eager to learn new technologies and stay up-to-date with the latest industry trends. I am highly motivated and dedicated to delivering the best possible results for clients.",
+    "funfacts": [
+      {
+        "title": "Project",
+        "number": "8"
+      },
+      {
+        "title": "Years Experience",
+        "number": "1"
+      },
+      {
+        "title": "Happy Client",
+        "number": "10"
+      }
+    ],
+    "btnText": "Get in touch",
+    "btnUrl": "contactus"
+  },
+  "projects": {
+    "sectionHeading": {
+      "miniTitle": "My Work",
+      "title": "RECENT PROJECT"
+    },
+    "allProjects": [
+      {
+        "thumbUrl": "/frontend/images/project1.png",
+        "title": "Website Development",
+        "subTitle": "Web Development, Backend Development",
+        "details": {
+          "title": "QR Code Transaction System",
+          "description": "QR Code Transaction System is a web application. It is a transaction system. Here we can send money to another user. We can also request money from",
+          "type": "Website",
+          "langages": "PHP,Laravel, HTML, CSS, JS",
+          "platform": "Laravel",
+          "country": "Morocco",
+          "url": "#"
+        }
+      },
+      {
+        "thumbUrl": "/frontend/images/project2.png",
+        "title": "Website Development",
+        "subTitle": "Web Development, Backend Development",
+        "details": {
+          "title": "POS System",
+          "description": "FIX4YOU is a Web based POS System Where you can manage your business. You can manage your inventory, sales, purchase, customer, supplier, employee, and many more. You can also manage your business from anywhere in the world. You can also",
+          "type": "Website",
+          "langages": "PHP, Laravel, HTML, CSS, JS",
+          "platform": "Laravel",
+          "country": "India",
+          "url": "https://test.posforyou.xyz/"
+        }
+      },
+      {
+        "thumbUrl": "/frontend/images/project3.png",
+        "title": "Backend Development",
+        "subTitle": "Web Development, Backend Development",
+        "details": {
+          "title": "Service Provider Website",
+          "description": "ASO is a service provider company. Here we provide daily life services related services",
+          "type": "Website",
+          "langages": "PHP, Laravel, HTML, CSS, JS",
+          "platform": "Laravel",
+          "country": "Bangladesh",
+          "url": "https://aso.com.bd/"
+        }
+      },
+      {
+        "thumbUrl": "/frontend/images/project4.png",
+        "title": "Website Development",
+        "subTitle": "Web Development, Web Design",
+        "details": {
+          "title": "E-voting System",
+          "description": "E-voting System is a web application. It is a voting system. Here we can vote for a candidate.",
+          "type": "Website",
+          "langages": "PHP, Laravel, HTML, CSS, JS",
+          "platform": "Laravel",
+          "country": "Bangladesh",
+          "url": "https://voting.ansabooks.com/"
+        }
+      },
+      {
+        "thumbUrl": "/frontend/images/project5.png",
+        "title": "API Development",
+        "subTitle": "Backend Development, API Development",
+        "details": {
+          "title": "API Development for Mobile App",
+          "description": "API Development for Mobile App.",
+          "type": "Website",
+          "langages": "Laravel, HTML, CSS, JS",
+          "platform": "Laravel",
+          "country": "Malaysia",
+          "url": "https://komunitiku.net/"
+        }
+      }
+
+    ]
+  },
+  "service": {
+    "sectionHeading": {
+      "miniTitle": "SERVICES",
+      "title": "Backend <span>services</span> I am providing"
+    },
+    "allService": [
+      {
+        "imgUrl": "/frontend/images/web.jpg",
+        "title": "Web Development",
+        "subTitle": "Develop custom web applications using PHP Laravel to meet the unique requirements of your clients.",
+        "icon": "bi:code-square",
+        "ratings": 5
+      },
+      {
+        "imgUrl": "/frontend/images/api.jpg",
+        "title": "API Development",
+        "subTitle": "Create RESTful or GraphQL APIs using Laravel to allow other applications to interact with your clients' systems.",
+        "icon": "bi:braces",
+        "ratings": 5
+      },
+      {
+        "imgUrl": "/frontend/images/app.jpg",
+        "title": "Mobile App Development",
+        "subTitle": "Develop mobile apps using Flutter, which is known for its cross-platform capabilities.",
+        "icon": "bi:google-play",
+        "ratings": 4
+      },
+      {
+        "imgUrl": "/frontend/images/sm.jpg",
+        "title": "Maintenance and Support",
+        "subTitle": "Offer ongoing maintenance and support services, including bug fixes, updates, and feature enhancements.",
+        "icon": "bi:question-circle-fill",
+        "ratings": 5
+      }
+    ]
+  },
+  "experience": {
+    "sectionHeading": {
+      "miniTitle": "Experience",
+      "title": "My Work <span>Experience</span>"
+    },
+    "allExperience": [
+      {
+        "designation": "Backend Developer",
+        "company": "RBF Tech Zone | REMOTE",
+        "duration": "Feb 2023 - April 2023",
+        "jobType": "Part time",
+        "companyTitle": "About Company",
+        "companyDescription": "RBF Tech Zone is a software development company. We are working on web development, mobile app development, and desktop app development. We are also working on digital marketing. We are working on the latest technology. We are working on Laravel, Vue Js, Flutter, and WordPress."
+      },
+      {
+        "designation": "PHP Laravel Developer",
+        "company": "Islamiya Tech | REMOTE",
+        "duration": "April 2023 - September 2023",
+        "jobType": "Project Basis",
+        "companyTitle": "About Company",
+        "companyDescription": "Islamiya Tech is a software development company. We are working on web development, mobile app development, and desktop app development. We are also working on digital marketing. We are working on the latest technology. We are working on Laravel, Vue Js, Flutter, and WordPress."
+      },
+      {
+        "designation": "Web Developer",
+        "company": "ASO | REMOTE",
+        "duration": "May 2023 - PRESENT",
+        "jobType": "Part time",
+        "companyTitle": "About Company",
+        "companyDescription": "ASO is a service provider company. Here we provide daily life services related services"
+      },
+    {
+        "designation": "Backend Developer",
+        "company": "CodingCampGuru | REMOTE",
+        "duration": "OCT 2023 - NOV 2023",
+        "jobType": "Part time",
+        "companyTitle": "About Company",
+        "companyDescription": "CodingCampGuru is a software development company. We are working on web development, mobile app development, and desktop app development. We are also working on digital marketing. We are working on the latest technology. We are working on Laravel, Vue Js, Flutter, and WordPress."
+    },
+        {
+            "designation": "Laravel Developer",
+            "company": "TDEVS | REMOTE",
+            "duration": "DEC 2023 - PRESENT",
+            "jobType": "Full time",
+            "companyTitle": "About Company",
+            "companyDescription": "TDevs is a Codecanyon Based Software company."
+        }
+    ]
+  },
+  "testimonial": {
+    "sectionHeading": {
+      "miniTitle": "Testimonial",
+      "title": "Over <span>8+</span> <br /> PEOPLE TRUST ME"
+    },
+    "allTestimonial": [
+      {
+        "reviewText": "Donec tellus sem, tempor ac purus a, porttitor lobortis purus. Etiam quis nisl eget ex pulvinar consectetur. Suspendisse potenti. Cras non elementum risus. Fusce massa tellus, consequat a rutrum et, aliquam a lacus. Quisque viverra egestas tincidunt. Nunc nec nisi sed enim consectetur ullamcorper. Vestibulum at neque tortor. Pellentesque urna enim, ultricies at tortor eu, elementum egestas leo. In hac habitasse platea dictumst.",
+        "avatarImg": "/frontend/images/avatar-1.jpg",
+        "avatarName": "Pamela Anders",
+        "avatarCompany": "Company Name"
+      },
+      {
+        "reviewText": "Donec tellus sem, tempor ac purus a, porttitor lobortis purus. Etiam quis nisl eget ex pulvinar consectetur. Suspendisse potenti. Cras non elementum risus. Fusce massa tellus, consequat a rutrum et, aliquam a lacus. Quisque viverra egestas tincidunt. Nunc nec nisi sed enim consectetur ullamcorper. Vestibulum at neque tortor. Pellentesque urna enim, ultricies at tortor eu, elementum egestas leo. In hac habitasse platea dictumst.",
+        "avatarImg": "/frontend/images/avatar-2.jpg",
+        "avatarName": "Pamela Anders",
+        "avatarCompany": "Company Name"
+      },
+      {
+        "reviewText": "Donec tellus sem, tempor ac purus a, porttitor lobortis purus. Etiam quis nisl eget ex pulvinar consectetur. Suspendisse potenti. Cras non elementum risus. Fusce massa tellus, consequat a rutrum et, aliquam a lacus. Quisque viverra egestas tincidunt. Nunc nec nisi sed enim consectetur ullamcorper. Vestibulum at neque tortor. Pellentesque urna enim, ultricies at tortor eu, elementum egestas leo. In hac habitasse platea dictumst.",
+        "avatarImg": "/frontend/images/avatar-3.jpg",
+        "avatarName": "Pamela Anders",
+        "avatarCompany": "Company Name"
+      }
+    ]
+  },
+  "contact": {
+    "sectionHeading": {
+      "title": "Let’s Discuss Your Project",
+      "subTitle": "Always available for freelancing and Job if the right project comes along, Feel free to contact me."
+    },
+    "contactImg": "/frontend/images/footer.png",
+    "contactInfo": [
+      { "title": "Write an e-mail", "email": "jmiqbal2019@gmail.com" },
+      { "title": "write an e-mail", "tel": "+8801679487265" }
+    ]
+  }
+}
